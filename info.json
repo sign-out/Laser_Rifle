@@ -1,0 +1,9 @@
+{
+	"name": "laser_rifle",
+	"version": "0.18.12",
+	"title": "Laser Rifle",
+	"author": "OwnlyMe",
+	"dependencies": ["base"],
+	"description": "Uses energy from your equipment as ammo",
+	"factorio_version": "0.18"
+}

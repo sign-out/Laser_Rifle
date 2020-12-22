@@ -1,0 +1,36 @@
+0.18.12
+- Rebalanced
+
+0.17.10
+- Updated code to match 0.17.35's change: "Renamed defines.inventory.player_main, player_guns, player_ammo, player_armor, player_vehicle and player_trash to defines.inventory.character_main, character_guns, character_ammo, character_armor, character_vehicle and character_trash"
+
+0.xx.10
+- Increased projectile range to make sure it always hits it's target
+
+0.xx.9
+- Changed the type of the charger to battery equipment (instead of belt immunity equipment)
+- Increased energy per charge to 750 kJ (from 500 kJ)
+- Reduced technology costs of Laser guns 3 to 600 (from 1000)
+
+0.xx.8
+- Reduced maximum charges to 50 (before: 100)
+
+0.xx.7
+- Projectiles with very dark tint now use a different blend mode to remain visible
+- Changed icon
+
+0.xx.6
+- Added russian localization (thanks to Va7ya !)
+
+0.xx.5
+- Reworked tiers to match the technological progress better
+
+0.xx.3
+- Reduced maximum charges to 100 (before: 200)
+- Increased energy consumption by 25%
+- Optimized performance for servers with many players
+
+0.xx.2
+- Increased laser projectile sizes
+- Made 2nd tier lasers brighter
+- Removed shell particle effect (was dropping used ammo shells on the floor)
