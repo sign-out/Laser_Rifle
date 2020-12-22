@@ -1,6 +1,6 @@
 {
 	"name": "laser_rifle",
-	"version": "19.0",
+	"version": "19.0.0,
 	"title": "Laser Rifle",
 	"author": "OwnlyMe",
 	"dependencies": ["base"],
